@@ -4,7 +4,7 @@ The twenty-first session of the LSST Discovery Alliance DSFP was hosted by the C
 
 The guest instructors for S21 were:  
 
-Dr. Scotty Coughlin, Northwestern University  
+Dr. Scotty Coughlin, Northwestern University 
 Dr. Lehman Garrison, Scientific Computing Core, Flatiron Institute  
 Olivia Lynn, LINCC Frameworks, Carnegie Mellon University   
 Dr. Veronica Dike, University of Illinois, Urbana-Champaign 
@@ -12,7 +12,7 @@ Dr. Veronica Dike, University of Illinois, Urbana-Champaign
 Additional lectures were given by the DSFP leadership team:  
 
 Dr. Bryan Scott [:octocat:](https://github.com/bscot)  
-Dr. Adam Miller 
+Dr. Adam Miller [:octocat:](https://github.com/adamamiller) 
 
 # Schedule
 
@@ -26,15 +26,15 @@ Dr. Adam Miller
 Monday, March 25, 2024
 
  * 09:00 AM – 09:30 AM  o Introduction of Guest Instructors and Code of Conduct Conversation
- * 09:30 AM - 10:30 AM  o [Lecture I]() Introduction to Software Engineering and Repositories
+ * 09:30 AM - 10:30 AM  o [Lecture I](Day1/) Introduction to Software Engineering and Repositories; B. Scott
  * 10:30 AM – 11:00 AM  o BREAK
- * 11:00 AM – 12:00 PM  o  [Problem I]() Software Repositories 
+ * 11:00 AM – 12:00 PM  o  [Problem I](Day1/) Software Repositories 
  * 12:00 PM – 01:30 PM  o  LUNCH 
- * 01:30 PM – 01:45 PM  o  [Lecture II]() Data Wrangling; B. Scott
- * 01:45 PM – 03:00 PM  o [Problem II]() Data Wrangling; B. Scott 
+ * 01:30 PM – 01:45 PM  o  [Lecture II](Day1/) Data Wrangling; B. Scott 
+ * 01:45 PM – 03:00 PM  o [Problem II](Day1/) Data Wrangling; B. Scott 
  * 03:00 PM – 03:30 PM  o BREAK
- * 03:30 PM - 04:30 PM o [Lecture III](Day2/) – Objectively Good: Intro to OOP; O. Lynn
- * 04:30 PM - 05:30 PM o [Problem III](Day2/) – Problem: OOP; O. Lynn  
+ * 03:30 PM - 04:30 PM o [Lecture III](Day1/) – Objectively Good: Intro to OOP; O. Lynn
+ * 04:30 PM - 05:30 PM o [Problem III](Day1/) – Problem: OOP; O. Lynn  
 
  
 ## Day 2 – Databases
@@ -45,15 +45,15 @@ Monday, March 25, 2024
 
 Tuesday, March 26, 2024
 
-* 09:00 PM – 09:15 AM  o [Lecture IV]() This Laptop is Inadquate & Introduction to Data Organization; B. Scott
-* 09:15 PM – 10:30 AM  o [Problem IV]() Introduction to Data Organization; B. Scott 
+* 09:00 PM – 09:15 AM  o [Lecture IV](Day2/) This Laptop is Inadquate & Introduction to Data Organization; B. Scott  
+* 09:15 PM – 10:30 AM  o [Problem IV](Day2/) Introduction to Data Organization; B. Scott 
 * 10:30 AM – 11:00 AM  o BREAK 
-* 11:00 AM – 12:00 PM  o  [Lecture V](Day2/) – Databases, SQL, and Django; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014)
+* 11:00 AM – 12:00 PM  o  [Lecture V](Day2/) – Databases, SQL, and Django; S. Coughlin 
 * 12:00 AM - 01:30 PM o LUNCH
-* 01:30 PM – 03:00 PM [Problem V](Day2/) – Problem: SQL servers and database queries; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014)
-* 03:00 PM – 04:00 PM o [Lecture VI](Day2/) – NoSQL databases: MongoDB; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014)
+* 01:30 PM – 03:00 PM [Problem V](Day2/) – Problem: SQL servers and database queries; S. Coughlin 
+* 03:00 PM – 04:00 PM o [Lecture VI](Day2/) – NoSQL databases: MongoDB; S. Coughlin 
 * 04:00 PM - 04:30 PM o BREAK
-* 04:30 PM – 06:00 PM  o [Problem VI](Day2/) – NoSQL queries; S. Coughlin [:octocat:](https://github.com/scottcoughlin2014) 
+* 04:30 PM – 06:00 PM  o [Problem VI](Day2/) – NoSQL queries; S. Coughlin 
 
  
 ## Day 3 — Software Development 
