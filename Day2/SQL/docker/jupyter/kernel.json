@@ -1,0 +1,20 @@
+{
+ "argv": [
+  "/opt/conda/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}",
+  "--ext",
+  "django_extensions.management.notebook_extension"
+ ],
+ "env": {
+  "DJANGO_SETTINGS_MODULE": "lsst.settings",
+  "PYTHONPATH": "$PYTHONPATH:/Session21/Day2/django/"
+ },
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": true
+ }
+}
