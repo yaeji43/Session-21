@@ -25,6 +25,8 @@ Dr. Adam Miller [:octocat:](https://github.com/adamamiller)
 
 Monday, March 25, 2024
 
+Data for day one exercises is available [here](https://drive.google.com/drive/folders/1C-iqwekJO7Ak68ImscGpE1_AKKgBrqO5?usp=share_link). 
+
  * 09:00 AM – 09:30 AM  o Introduction of Guest Instructors and Code of Conduct Conversation
  * 09:30 AM - 10:30 AM  o [Lecture I](Day1/) Introduction to Software Engineering and Repositories; B. Scott
  * 10:30 AM – 11:00 AM  o BREAK
