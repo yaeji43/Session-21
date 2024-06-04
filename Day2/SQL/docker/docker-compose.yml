@@ -42,9 +42,8 @@ services:
     environment:
       - PGSERVICEFILE=${PGSERVICEFILE}
       - PGPASSFILE=${PGPASSFILE}
+      - JUPYTER_TOKEN="Session21"
     restart: always
-    environment:
-      JUPYTER_TOKEN: "Session21"
     volumes:
         - ../:/Session21/Day2
     depends_on:
