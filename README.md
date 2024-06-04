@@ -35,8 +35,8 @@ Data for day one exercises is available [here](https://drive.google.com/drive/fo
  * 01:30 PM – 01:45 PM  o  [Lecture II](Day1/) Data Wrangling; B. Scott 
  * 01:45 PM – 03:00 PM  o [Problem II](Day1/) Data Wrangling; B. Scott 
  * 03:00 PM – 03:30 PM  o BREAK
- * 03:30 PM - 04:30 PM o [Lecture III](Day1/) – Objectively Good: Intro to OOP; O. Lynn
- * 04:30 PM - 05:30 PM o [Problem III](Day1/) – Problem: OOP; O. Lynn  
+ * 03:30 PM - 04:30 PM o [Lecture III](Day1/OOP_Demo.ipynb) – Intro to OOP; O. Lynn
+ * 04:30 PM - 05:30 PM o [Problem III](Day1/OOP_Exercise.ipynb) – Problem: OOP; O. Lynn  
 
  
 ## Day 2 – Databases
