@@ -40,9 +40,7 @@ services:
     ports:
       - 8888:8888
     environment:
-      - PGSERVICEFILE=${PGSERVICEFILE}
-      - PGPASSFILE=${PGPASSFILE}
-      - JUPYTER_TOKEN="Session21"
+      JUPYTER_TOKEN: "Session21"
     restart: always
     volumes:
         - ../:/Session21/Day2
