@@ -35,7 +35,7 @@ Data for day one exercises is available [here](https://drive.google.com/drive/fo
  * 01:30 PM – 01:45 PM  o  [Lecture II](Day1/) Data Wrangling; B. Scott 
  * 01:45 PM – 03:00 PM  o [Problem II](Day1/) Data Wrangling; B. Scott 
  * 03:00 PM – 03:30 PM  o BREAK
- * 03:30 PM - 04:30 PM o [Lecture III](Day1/OOP_Demo.ipynb) – Intro to OOP; O. Lynn
+ * 03:30 PM - 04:30 PM o [Lecture III](Day1/OOP_Demo.ipynb) – Intro to OOP; O. Lynn ([Slides](Day1/OOP_Slides.pdf) / [Notebook](Day1/OOP_Demo.ipynb))
  * 04:30 PM - 05:30 PM o [Problem III](Day1/OOP_Exercise.ipynb) – Problem: OOP; O. Lynn  
 
  
@@ -66,9 +66,9 @@ Tuesday, March 26, 2024
 
 ~ Wednesday, March 27, 2024
 
-* 09:00 AM - 10:00 AM o [Lecture VII](Day3/) Problem: OOP; O. Lynn 
+* 09:00 AM - 10:00 AM o [Lecture VII](Day3/OOP_DeepDives_Slides.pdf) OOP Deep Dives; O. Lynn 
 * 10:00 AM - 10:30 AM o BREAK
-* 10:30 AM - 12:00 PM o [Problem VII](Day3/) OOP; O. Lynn 
+* 10:30 AM - 12:00 PM o [Problem VII](Day3/OOP_QUAIL.ipynb) OOP Exercise: QUAIL; O. Lynn 
 * 12:00 PM - ??:?? PM o BREAK
 
 Visit and Tour of NCSA 
