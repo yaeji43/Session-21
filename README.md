@@ -66,9 +66,9 @@ Tuesday, March 26, 2024
 
 ~ Wednesday, March 27, 2024
 
-* 09:00 AM - 10:00 AM o [Lecture VII](Day3/) Problem: OOP; O. Lynn 
+* 09:00 AM - 10:00 AM o [Lecture VII](Day3/OOP_DeepDives_Slides.pdf) OOP Deep Dives; O. Lynn 
 * 10:00 AM - 10:30 AM o BREAK
-* 10:30 AM - 12:00 PM o [Problem VII](Day3/) OOP; O. Lynn 
+* 10:30 AM - 12:00 PM o [Problem VII](Day3/OOP_QUAIL.ipynb) OOP Exercise: QUAIL; O. Lynn 
 * 12:00 PM - ??:?? PM o BREAK
 
 Visit and Tour of NCSA 
